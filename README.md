@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/HarishDomma/HarishDomma/main/Assets/Short.jpg"
+    src="https://raw.githubusercontent.com/HarishDomma/HarishDomma/main/Assets/Full.jpg"
     width="100%"
     alt="Harish Domma background banner"
   />
