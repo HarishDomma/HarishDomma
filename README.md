@@ -5,10 +5,17 @@
 
 <p>
   Aspiring AI Engineer passionate about Python, software development, and Generative AI.
-  <br/>
+  <br/><br/>
   Focused on building innovative solutions and continuously learning.
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/HarishDomma/HarishDomma/main/Assets/Short.jpg"
+    width="100%"
+    alt="Harish Domma background banner"
+  />
+</p>
 
 
 <p align="center">
