@@ -3,11 +3,14 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-<p>
-  Aspiring AI Engineer passionate about Python, software development, and Generative AI.
-  <br/><br/>
-  Focused on building innovative solutions and continuously learning.
-</p>
+<List>
+   <li>
+      Aspiring AI Engineer passionate about Python, software development, and Generative AI.   
+   </li>  
+   <li>
+      Focused on building innovative solutions and continuously learning.
+   </li>
+ </List>
 
 <p align="center">
   <img
