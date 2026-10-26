@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish Domma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/HarishDomma/HarishDomma/main/Assets/wave.gif" width="30px" alt="wave" />, I'm Harish Domma</h1>
 <h3 align="center">AI Engineer</h3>
 
 <h2 align="left">👨‍💻 About Me</h2>
