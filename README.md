@@ -75,16 +75,4 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
-## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarishDomma&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarishDomma&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishDomma&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishDomma&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
