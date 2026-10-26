@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harish Domma</h1>
 <h3 align="center">AI Engineer</h3>
 
+## 👨‍💻 About Me
+
+Aspiring AI Engineer passionate about Python, software development, and Generative AI. Focused on building innovative solutions and continuously learning.
+
+🌐 **Portfolio:** [harishdomm.me](https://harishdomm.me/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harishdomma/)
+
 <p align="center">
   <a href="https://harishdomm.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452" alt="Portfolio"/>
